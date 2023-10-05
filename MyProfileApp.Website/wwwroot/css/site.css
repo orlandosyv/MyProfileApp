@@ -24,3 +24,6 @@ body {
 .MainSection {
     margin-bottom: 2rem;
 }
+.cover-container {
+    max-width: 42em;
+}
